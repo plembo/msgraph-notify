@@ -440,6 +440,5 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-appsecret.txt
 appsettings.json
 msgraphapp/appsettings.json
